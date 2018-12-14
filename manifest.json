@@ -3,7 +3,7 @@
   "short_name": "RR",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "start_url": "https://taroosg.github.io/rand/",
+  "start_url": "https://taroosg.github.io/rand",
   "display": "fullscreen",
   "orientation": "portrait",
   "icons": [
