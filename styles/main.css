@@ -13,18 +13,18 @@
     line-height: 1.5;
 }
 label{
-    font-size: 4vw;
-    line-height: 1.75
+    font-size: 3rem;
+    line-height: 1.75;
 }
 input, select{
     width: 100%;
-    height: 6vw;
-    font-size: 3vw;
+    height: 6rem;
+    font-size: 3rem;
     border: 2px solid #000;
 }
 button{
     width: 70%;
-    font-size: 6vw;
+    font-size: 4rem;
     text-align: center;
     font-weight: bold;
     padding: 10px 30px;
@@ -43,7 +43,7 @@ button:hover {
 }
 
 .number{
-    font-size: 250px;
+    font-size: 15rem;
     text-align: center;
 }
 
@@ -52,7 +52,7 @@ button:hover {
     justify-content: space-around;
 }
 .input_numbers{
-    width: 25%;
+    width: 30%;
     display: flex;
     flex-direction: column;
     align-items: center;
